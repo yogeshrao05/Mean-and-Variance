@@ -1,5 +1,7 @@
 #  Mean and variance of a discrete  distribution
 
+Name: yogesh rao S D
+Reg no: 212222110055
 
 # Aim : 
 
